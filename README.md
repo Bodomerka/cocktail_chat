@@ -96,11 +96,13 @@ Open [http://127.0.0.1:8000](http://127.0.0.1:8000) in your browser to access th
 
 ### Advisor Queries
 
-
 - "Recommend 5 cocktails that contain my favorite ingredients."
 - "Recommend a cocktail similar to 'Hot Creamy Bush'."
 
 The chat UI displays your questions and the bot’s responses in a styled format.
+
+## Example Usage
+![image](https://github.com/user-attachments/assets/c0a8ebe8-0254-4f56-a00b-91549005ca5f)
 
 ## Thought Process
 
